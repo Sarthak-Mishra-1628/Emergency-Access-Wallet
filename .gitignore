@@ -1,0 +1,28 @@
+# ===== Java / Spring Boot =====
+Backend/target/
+Backend/.mvn/
+Backend/*.log
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# ===== Environment / Secrets =====
+*.env
+application.properties
+application-prod.properties
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Node (if ever added) =====
+node_modules/
+
+# ===== Logs =====
+logs/
+*.log
